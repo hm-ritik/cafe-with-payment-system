@@ -1,6 +1,6 @@
 import qrcode as qr
 from PIL import Image
-print("Welcome to Caa Cafe")
+print("Welcome to aa Cafe")
 menu={
     "coffee":80,
     "tea":10,
@@ -42,4 +42,4 @@ if order_total>0:
 else:
     print("You Ordered Nothing")
 
-print("Thanks for Visiting Caa Cafe")     
+print("Thanks for Visiting aa Cafe")     
